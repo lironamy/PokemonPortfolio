@@ -24,7 +24,7 @@ this portfolio offers a fun and innovative way to explore my work. So grab your 
 
 You can view the live versions of the projects directly from the following link:
 
-- [Live Demo](https://lironamy.github.io/bali-pashut/)
+- [Live Demo](https://lironlin.online/)
 
 ## About
 
@@ -39,7 +39,7 @@ technologies and delivering high-quality results.
 
 ### Bali Pashut
 
-![Bali Pashut](/path-to-image/BaliPashut.png)
+![BaliPashut](https://github.com/lironamy/PokemonPortfolio/assets/122408173/9624cfc9-f3bd-4886-b18d-c02e8eb9f251)
 
 A simple and elegant website created using Three.js. 
 The project showcases and sells cookies. 
@@ -50,7 +50,7 @@ It's a great example of combining design and functionality to create an appealin
 
 ### Liron-Ola Wedding
 
-![Liron-Ola Wedding](/path-to-image/Wedding.png)
+![Wedding](https://github.com/lironamy/PokemonPortfolio/assets/122408173/0682122c-b9cf-495e-8592-913a5ff9b4ed)
 
 A beautifully designed wedding website for sending invitations and RSVPs. The project demonstrates my ability to create user-friendly and visually appealing websites for special occasions.
 
@@ -59,7 +59,7 @@ A beautifully designed wedding website for sending invitations and RSVPs. The pr
 
 ### Holiday Picker
 
-![Holiday Picker](/path-to-image/HolidayPicker.png)
+![HolidayPicker](https://github.com/lironamy/PokemonPortfolio/assets/122408173/fe12b1f8-5628-4ada-8892-17c4b248e446)
 
 An online tool for choosing holidays, built with React, 
 TypeScript, Node.js, Express.js, SQL, and more. 
@@ -74,7 +74,6 @@ Feel free to reach out if you're interested in collaborating, have questions abo
 
 - Email: lironamy@gmail.com
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Portfolio Website: [Your Portfolio Website](https://www.yourportfolio.com)
 
 ---
 
