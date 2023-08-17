@@ -73,7 +73,7 @@ This project showcases my technical versatility and ability to develop complex a
 Feel free to reach out if you're interested in collaborating, have questions about my work, or just want to say hi!
 
 - Email: lironamy@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/liron-avraham-788957254/)
 
 ---
 
