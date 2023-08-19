@@ -83,7 +83,7 @@ const Hero = () => {
                 <p className={`${styles.heroSubText} mt-2 text-white-100`}>
                   Welcome to my Pokémon-themed portfolio  <br className='sm:block hidden' />
                   I'm a Fullstack developer  <br className='sm:block hidden' />
-                  Specializes in interfaces and web applications
+                  who specializes in interfaces and web applications
                 </p>
               </div>
             </div>
