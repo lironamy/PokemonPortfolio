@@ -1,5 +1,7 @@
 # Pokémon Portfolio
 
+![121212](https://github.com/user-attachments/assets/12c247b6-708c-467e-8383-6c82575d2e19)
+
 Welcome to my Pokémon-themed portfolio! As a passionate developer and a Pokémon enthusiast, 
 I've combined my love for coding and the world of Pokémon to create a unique and engaging portfolio experience. 
 Explore a world where technology meets Pokémon, as I showcase my projects and skills through the lens of your favorite pocket monsters.
@@ -20,6 +22,7 @@ this portfolio offers a fun and innovative way to explore my work. So grab your 
 - [About](#about)
 - [Projects](#projects)
 - [Contact](#contact)
+- [Screenshots](#Screenshots)
 
 ## Live
 
@@ -77,5 +80,13 @@ Feel free to reach out if you're interested in collaborating, have questions abo
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/liron-avraham-788957254/)
 
 ---
+
+## Screenshots
+
+![26262](https://github.com/user-attachments/assets/b141ec2b-b50a-4216-9b73-9dca574d9d11)
+![194954](https://github.com/user-attachments/assets/d5753131-0482-4a10-9a79-a7c03fff0e4a)
+![1515](https://github.com/user-attachments/assets/1bb4037c-18d0-4618-8f08-7c1e099017a2)
+![484848](https://github.com/user-attachments/assets/df767362-bfad-411a-9106-3c26683a0399)
+
 
 Thank you for visiting my portfolio!
