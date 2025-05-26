@@ -1,7 +1,7 @@
 import { BrowserRouter } from "react-router-dom";
 import { Contact, Hero, Navbar, Works, StarsCanvas, Model, Loader } from "./components";
 import { useState, useEffect } from "react";
-import Rayquaza from "./assets/rayquaza.png";
+import Rayquaza from "./assets/Rayquaza.png";
 
 
 const App = () => {
